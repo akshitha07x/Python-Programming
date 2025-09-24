@@ -1,0 +1,22 @@
+#print is used to display the output in our program.
+print("Hello World")
+#Bio-Data
+print("Name : Navaneeth Akshitha")
+print("Age : 17")
+print("Branch : CSE-AIML")
+print("Section : D")
+print("College : MRCET")
+print("Study : Engeneering [BTECH]")
+#Bio-Data Using input and output statements
+Name=input("Enter your name:")
+Age=input("Enter your age:")
+Branch=input("Enter your branch:")
+Section=input("Enter your section:")
+College=input("Enter your college:")
+Study=input("Enter your study:")
+print("Name: ", Name)
+print("Age: ", Age)
+print("Branch: ", Branch)
+print("Section: ", Section)
+print("College: ", College)
+print("Study: ", Study)
